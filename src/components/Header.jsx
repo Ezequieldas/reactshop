@@ -49,7 +49,7 @@ const Header = () => {
         <ul>
           <li className="navbar-email" onClick={handleToggle
           }>
-            platzi@example.com
+            eze@das.com
           </li>
           <li 
           className="navbar-shopping-cart" 
